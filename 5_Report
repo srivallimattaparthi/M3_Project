@@ -1,0 +1,6 @@
+Schematic diagram:
+
+The Vcc and ground of ultrasonic sensor are connected to 5V supply and GND od Arduino respectively.The TRIG and ECHO of ultrasonic sensor are connected to digital pin 11and 10 respectively.
+The output i.e positive terminal of buzzer is connected to digital pin 6 through the driver circuit which comprises of 1kohm resistor, 1N4007 diode, NPN transistor. 
+The principle of the circuit is as follows: The Ultrasonic Sensor sends acoustic pulses and the Arduino measures the interval of each reflected signal. Based on this time interval, Arduino then 
+calculates the distance of the object.Arduino then activates the Buzzer if the distance between the sensor and object is less that a certain range.
