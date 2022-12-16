@@ -1,0 +1,4 @@
+In present scenario there is a rapid developent in technology which is influencing the human life in several aspects.One among them is the automobiles sector in which many countries are doing great 
+and launching new products (vehicles) .Instead of having many advantages and features they may have some disadvantages too andone of them in vehicles is reverse car parking. The aim of our project is to present such a design which can identify the obstacles comes in the range while parking 
+the car in reverse which will help us to park our vehicles in reverse direction without collision with any obstacle in its vicinity. In this project we have built a simple prototype of car reverse parking sensor using arduino UNO and HC- SRO4 Ultrasonic sensor. 
+This sensor acts as motion detector. Multiple areas of engineering use these sensors. The present design of this project can be employed in various systems like automation, robotics etc.
